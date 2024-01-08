@@ -1,0 +1,38 @@
+
+.home-container {
+    text-align: center;
+    margin: 50px auto;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .button-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    border: 1px solid #ccc;
+    margin: 5px;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #0ab1f9;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  button:hover {
+    background-color: #2a56c6;
+  }
+  
